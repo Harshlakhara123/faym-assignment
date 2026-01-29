@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721671488093",
+    "project_id": "faym-client",
+    "storage_bucket": "faym-client.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721671488093:android:4ef5d803afb0295a5d43b4",
+        "android_client_info": {
+          "package_name": "com.example.faym_signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzW1ObCG701PltMfvetbBFUtrRSvlxJ0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
